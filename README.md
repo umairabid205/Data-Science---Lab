@@ -4,22 +4,21 @@ This repository contains the materials and code from my Data Science Lab courses
 
 **Contents:**
 
-* **[Lab 1 Folder Name]:** 
-    * [Description of Lab 1, e.g., "Introduction to Data Science, Data Cleaning"]
-    * [List of files/notebooks in Lab 1]
-* **[Lab 2 Folder Name]:**
-    * [Description of Lab 2, e.g., "Exploratory Data Analysis, Visualization"]
-    * [List of files/notebooks in Lab 2]
-* **[Lab 3 Folder Name]:**
-    * [Description of Lab 3, e.g., "Machine Learning Models, Model Evaluation"]
-    * [List of files/notebooks in Lab 3]
-    * ... and so on for each lab
+* **[201955_DS_Final]:** 
+    * his folder holds everything related to the final exam, including the dataset, question paper, and your solutions.
+* **[Clustering]:**
+    * Explore data analysis and visualization techniques used in this lab (detailed description can be added here). You'll also find the corresponding files and notebooks.
+* **[Data_set]:**
+    * This folder stores the datasets used throughout the labs for your convenience.
+   
+* **[lab_tasks]:**
+    * Dive into all the lab tasks you completed in this course.
 
 **Technologies Used:**
 
-* [List of programming languages used, e.g., Python]
-* [List of libraries used, e.g., Pandas, NumPy, Scikit-learn, Matplotlib] 
-* [List of tools used, e.g., Jupyter Notebook, VS Code]
+* [Python]
+* [List of libraries used, Pandas, NumPy, Scikit-learn, Matplotlib] 
+* [List of tools used, Jupyter Notebook, VS Code]
 
 
 
@@ -34,12 +33,3 @@ This repository contains the materials and code from my Data Science Lab courses
 * umairabid205@gmail.com
 * umairabid205
 
-
-
-**Additional Tips:**
-
-* Use Markdown formatting for headings, lists, code blocks, and links to make your README more readable.
-* Consider adding images or screenshots to your README to illustrate your work.
-* Keep your README updated as you add new labs or make changes to your code.
-
-I hope this revised version is helpful!
