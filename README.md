@@ -21,37 +21,20 @@ This repository contains the materials and code from my Data Science Lab courses
 * [List of libraries used, e.g., Pandas, NumPy, Scikit-learn, Matplotlib] 
 * [List of tools used, e.g., Jupyter Notebook, VS Code]
 
-**How to Use:**
 
-* [If applicable: Instructions on how to run the code, install dependencies, etc.]
 
 **Note:**
 
 * This repository may contain sensitive data or large files. Please exercise caution when downloading or sharing.
-* [Add any other relevant notes or disclaimers]
+
 
 **Contact:**
 
-* [Your Name]
-* [Your Email Address]
-* [Your LinkedIn Profile (Optional)]
+* Umair Abid
+* umairabid205@gmail.com
+* umairabid205
 
-**License:**
 
-[Choose a license that suits you. For example:]
-
-* This work is licensed under the [License Name] License. See the LICENSE file for details. 
-
-**Remember to:**
-
-* **Replace the placeholders** with your actual information.
-* **Create folders for each lab** and organize your files within them.
-* **List the specific files and notebooks** within each lab folder.
-* **Update the "Technologies Used"** section with the exact tools and libraries you used.
-* **Add a "How to Use" section** if applicable (e.g., if you have scripts that need to be run or specific instructions for using the notebooks).
-* **Choose a license** that you are comfortable with and add a LICENSE file to your repository.
-
-This README file provides a clear and informative overview of your Data Science Lab work. Feel free to customize it further to fit your specific needs and preferences. 
 
 **Additional Tips:**
 
