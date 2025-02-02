@@ -1,6 +1,6 @@
 # Data Science Lab Work
 
-This repository contains the materials and code from my Data Science Lab courses at [University Name]. 
+This repository contains the materials and code from my Data Science Lab courses at Air University, Islamabad. 
 
 **Contents:**
 
